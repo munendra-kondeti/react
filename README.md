@@ -1,2 +1,1 @@
-# react
-Learning react
+# React lib learning
